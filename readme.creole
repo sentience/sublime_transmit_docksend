@@ -14,7 +14,7 @@ git clone git://github.com/jeffturcotte/sublime_transmit_docksend.git ~/Library/
 
 == Usage
 
-Press cmd+u to Docksend the currently open file.
+Press ⌘U to Docksend the currently open file.
 
 == License
 
