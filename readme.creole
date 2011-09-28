@@ -2,7 +2,7 @@
 
 *supports OSX only*
 
-A Sublime Text 2 (http://www.sublimetext.com/2) plugin that provides a key-binding to docksend the current open file through Transmit (http://www.panic.com/transmit/)
+A Sublime Text 2 (http://www.sublimetext.com/2) plugin that provides a command and key binding to docksend the currently open file through Transmit (http://www.panic.com/transmit/)
 
 == Installation
 
